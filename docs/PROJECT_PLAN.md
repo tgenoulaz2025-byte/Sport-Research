@@ -25,6 +25,11 @@ Accuracy of the height map is the central challenge.
 ### Phase 1: simulation (done)
 Physics + solver on synthetic greens. See README.
 
+### Phase 1b: online drone video (done)
+Whole pipeline on a real green from a CC-licensed drone video. Main lesson:
+the gravity direction must be known to about 0.2°. A ±1.2° uncertainty moved
+aim points by up to 1.7 m. See README.
+
 ### Phase 2: controlled test on a putting mat
 - Prop a putting mat at known slopes (measure with a digital level): 0 %, 1 %, 2 %, 3 %.
 - Capture with each method → point cloud → fit height map (Open3D / SciPy).

@@ -1,0 +1,3 @@
+putt 1: aim 80 cm left, speed 2.98 m/s, make chance 18%
+putt 2: aim 64 cm left, speed 1.78 m/s, make chance 39%
+putt 3: aim 89 cm left, speed 2.92 m/s, make chance 17%
